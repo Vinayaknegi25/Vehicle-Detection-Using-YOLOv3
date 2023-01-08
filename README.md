@@ -8,7 +8,7 @@
 
 ## Install OpenCV 
 
-    pip install cv2
+    pip install opencv-python==3.4.2.17
 
 ## Install imutils,scipy
 
