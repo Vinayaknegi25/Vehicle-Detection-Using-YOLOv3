@@ -14,4 +14,7 @@
 
     pip install scipy
     pip install imutils
+    
+    
+ ## Check commands.txt to see how to run the code
    
