@@ -8,5 +8,10 @@
 
 ## Install OpenCV 
 
-   pip install cv2
+    pip install cv2
+
+## Install imutils,scipy
+
+    pip install scipy
+    pip install imutils
    
