@@ -5,3 +5,8 @@
     
     cd yolo-coco
     wget https://pjreddie.com/media/files/yolov3.weights
+
+## Install OpenCV 
+
+   pip install cv2
+   
