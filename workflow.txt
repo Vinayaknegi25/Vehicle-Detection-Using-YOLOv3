@@ -1,0 +1,10 @@
+# Workflow:-
+1) Reading input video
+2) Loading YOLO v3 Network
+3) Reading frames in the loop
+4) Getting blob from the frame
+5) Implementing Forward Pass
+6) Getting Bounding Boxes
+7) Non-maximum Suppression
+8) Drawing Bounding Boxes with Labels
+9) Writing processed frames

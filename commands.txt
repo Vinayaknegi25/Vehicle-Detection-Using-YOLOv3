@@ -1,0 +1,8 @@
+python3 yolo_video.py --input video.mp4 --output Out.avi --yolo yolo-coco 
+Command Format
+
+python3 yolo_video.py --input bridge.mp4 --output bridgeOut.avi --yolo yolo-coco 
+
+python3 yolo_video.py --input bridge.mp4 --output bridgeOut.avi --yolo yolo-coco --confidence 0.7
+
+python3 yolo_video.py --input road.mp4 --output roadOut.avi --yolo yolo-coco
